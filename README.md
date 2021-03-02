@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @matt151 - Matthew 
-- 👀 I’m interested in Engineering
-- 🌱 I’m currently learning C++, C
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @matt151 - Matthew Campbell
+- 👀 I’m currently stuyding Engineering at Trinity College Dublin.
+- 🌱 I’m currently learning C++, C.
 - 📫 How to reach me mcampbe3@tcd.ie
 
 <!---
